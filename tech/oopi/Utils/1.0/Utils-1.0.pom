@@ -89,7 +89,10 @@
                     <noJekyll>true</noJekyll>                                  <!-- disable webpage processing -->
                     <outputDirectory>${project.build.directory}/releases</outputDirectory> <!-- matches distribution management repository url above -->
                     <branch>refs/heads/releases</branch>                       <!-- remote branch name -->
-
+                    <includes>
+                        <include>**/*</include>
+                    </includes>
+                    <merge>true</merge>
                     <repositoryName>bibliotecas</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>crismgarcia</repositoryOwner>    <!-- github username  -->
                 </configuration>
