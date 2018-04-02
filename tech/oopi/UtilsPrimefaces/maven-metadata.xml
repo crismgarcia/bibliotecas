@@ -3,10 +3,10 @@
   <groupId>tech.oopi</groupId>
   <artifactId>UtilsPrimefaces</artifactId>
   <versioning>
-    <release>2.0</release>
+    <release>3.0</release>
     <versions>
-      <version>2.0</version>
+      <version>3.0</version>
     </versions>
-    <lastUpdated>20180402141245</lastUpdated>
+    <lastUpdated>20180402141546</lastUpdated>
   </versioning>
 </metadata>
