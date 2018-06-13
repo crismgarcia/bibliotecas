@@ -26,12 +26,12 @@
         <dependency>
             <groupId>org.javers</groupId>
             <artifactId>javers-core</artifactId>
-            <version>3.3.4</version>
+            <version>3.9.7</version>
         </dependency>
         <dependency>
             <groupId>org.javers</groupId>
             <artifactId>javers-persistence-sql</artifactId>
-            <version>3.3.3</version>
+            <version>3.9.7</version>
         </dependency>
     </dependencies>
     <properties>
